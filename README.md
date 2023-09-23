@@ -1,5 +1,5 @@
 #My name is ~~Shiloh~~ **Shylo**!
-##I am a huge nerd, and I am passionate about *many things*
+##I am a huge nerd, and I am passionate about *many things*.
 
 1. Plants & Pet care is one of my special interests.
 2. I enjoy longboarding & Working out
@@ -11,4 +11,4 @@
 --*Spore
 --*Guild Wars 2
 --*Subnautica
-6. I come from a military family, and named after the base in Manitoba .
+6. I come from a military family, and named after the base in Manitoba.
