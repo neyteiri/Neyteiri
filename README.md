@@ -1,5 +1,5 @@
-#My name is ~~Shiloh~~ **Shylo**!
-##I am a huge nerd, and I am passionate about *many things*.
+# My name is ~~Shiloh~~ **Shylo**!
+## I am a huge nerd, and I am passionate about *many things*.
 
 1. Plants & Pet care is one of my special interests.
 2. I enjoy longboarding & Working out
